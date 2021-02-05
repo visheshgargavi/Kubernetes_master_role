@@ -1,4 +1,4 @@
-Kubernetes Master
+Kubernetes Master Role for aws Linux & Redhat
 =========
 
 A brief description of the role goes here.
